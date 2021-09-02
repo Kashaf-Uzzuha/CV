@@ -1,0 +1,32 @@
+/********************TAG SELECTORS********************/
+body { background-color: papayawhip;
+    
+}
+p { font-style: italic;
+
+}
+/**********************CLASS SELECTORS******************/
+
+.img {
+    background-color: darksalmon;
+}
+/**********************ID SELECTORS********************/
+#heading {
+    background-color: rgb(204, 56, 125);
+}
+
+h1 {
+    font-style: italic;
+    color: darkcyan;
+}
+h3 {
+    
+    color: rgb(165, 12, 76);
+}
+
+hr { background-color: #f1dee3;
+     border-color: rosybrown;
+     border-width: 5px;
+     width: 5%;
+     border-style: dotted none  none;
+}
